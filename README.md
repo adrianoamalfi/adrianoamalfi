@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.adrianoamalfi.com/](https://www.adrianoamalfi.com/)
 
-- 📝 I regularly write articles on [https://www.adrianoamalfi.com/blog/](https://www.adrianoamalfi.com/blog/)
+- 📝 I regularly write articles on [https://www.supercazzole.it/](https://www.supercazzole.it/)
 
 - 💬 Ask me about **Corporate Innovation, Digital Transformation, ICT Strategy, Devops etc**
 
