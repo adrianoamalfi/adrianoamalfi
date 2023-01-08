@@ -3,21 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianoamalfi&label=Profile%20views&color=0e75b6&style=flat" alt="adrianoamalfi" /> </p>
 
-- 🔭 I’m currently working on [MY Personal Site](https://github.com/adrianoamalfi/personal_site)
-
-- 🤝 I’m looking for help with [Create a Jekyll template from my personal site](https://github.com/adrianoamalfi/personal_site)
-
-- 👨‍💻 All of my projects are available at [https://www.adrianoamalfi.com/](https://www.adrianoamalfi.com/)
-
-- 📝 I regularly write articles on [https://www.supercazzole.it/](https://www.supercazzole.it/)
+- 📝 I  write articles on [https://adrianoamalfi.com/](https://adrianoamalfi.com/)
 
 - 💬 Ask me about **Corporate Innovation, Digital Transformation, ICT Strategy, Devops etc**
 
 - 📫 How to reach me **adrianoamalfi@gmail.com**
 
-- 📄 Know about my experiences [https://www.adrianoamalfi.com/about/](https://www.adrianoamalfi.com/about/)
+- 📄 Know about my experiences [https://adrianoamalfi.com/about/](https://adrianoamalfi.com/about/)
 
-- ⚡ My Photos Archive **https://www.adrianoamalfi.com/photos/**
+- ⚡ My Photos Archive **https://adrianoamalfi.com/photos/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
